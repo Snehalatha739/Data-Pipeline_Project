@@ -24,13 +24,13 @@ The main goal is to take product data from a public API, make some changes to it
 ##  My Project Folder
 ```
 Data-Pipeline_Project/
-├── fetch_data.py
-├── pipeline_status.txt
-├── store.db
-├── frontend.html
-├── requirements.txt
-├── README.md
-└── error.log
+   -> fetch_data.py
+   -> pipeline_status.txt
+   -> store.db
+   -> frontend.html
+   -> requirements.txt
+   -> README.md
+   -> error.log
 ```
 ---
 ## Dashboard View
@@ -50,5 +50,6 @@ Here’s a quick look at how it appears inside the table:
 ---
 
  *This project helped me understand the complete data flow — from fetching data to saving it neatly inside a database.*
+
 
 
