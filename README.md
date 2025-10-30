@@ -28,6 +28,7 @@ Data-Pipeline_Project/
    -> pipeline_status.txt
    -> store.db
    -> frontend.html
+   -> frontend.css
    -> requirements.txt
    -> README.md
    -> error.log
@@ -50,6 +51,7 @@ Here’s a quick look at how it appears inside the table:
 ---
 
  *This project helped me understand the complete data flow — from fetching data to saving it neatly inside a database.*
+
 
 
 
